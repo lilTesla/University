@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1511771292 source:d:\projects\dlinka\main.cpp
+	<bits/stdc++.h>
+	"tlong.h"
+
+1511730317 d:\projects\dlinka\include\tlong.h
+	<vector>
+	<iostream>
+	<string>
+
+1511730336 source:d:\projects\dlinka\src\tlong.cpp
+	"tlong.h"
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<cassert>
+	<algorithm>
+
+1514423297 source:c:\users\deepseeker\source\repos\dlinka\main.cpp
+	<bits/stdc++.h>
+	"tlong.h"
+
+1511730317 c:\users\deepseeker\source\repos\dlinka\include\tlong.h
+	<vector>
+	<iostream>
+	<string>
+
+1511730336 source:c:\users\deepseeker\source\repos\dlinka\src\tlong.cpp
+	"tlong.h"
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<cassert>
+	<algorithm>
+

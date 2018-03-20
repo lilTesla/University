@@ -1,0 +1,7 @@
+C:\My\LongArithmetics\LongArithmetics\bin\Debug\LongArithmetics.exe.config
+C:\My\LongArithmetics\LongArithmetics\bin\Debug\LongArithmetics.exe
+C:\My\LongArithmetics\LongArithmetics\bin\Debug\LongArithmetics.pdb
+C:\My\LongArithmetics\LongArithmetics\obj\Debug\LongArithmetics.csprojResolveAssemblyReference.cache
+C:\My\LongArithmetics\LongArithmetics\obj\Debug\LongArithmetics.csproj.CoreCompileInputs.cache
+C:\My\LongArithmetics\LongArithmetics\obj\Debug\LongArithmetics.exe
+C:\My\LongArithmetics\LongArithmetics\obj\Debug\LongArithmetics.pdb
